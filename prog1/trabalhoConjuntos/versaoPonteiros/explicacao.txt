@@ -1,0 +1,1 @@
+Versão utilizando ponteiros sem utilizar structs ou alocação dinâmica de memória.
