@@ -1,0 +1,1 @@
+Trabalho feito para realizar operaçãos básicas com conjuntos e o entedimento de geração de números aleatórios pelas funções rand() e srand().
