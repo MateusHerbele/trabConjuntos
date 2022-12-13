@@ -1,0 +1,1 @@
+Adicionando alocação dinâmica ao programa, falta ajustar a leitura de tamanho e o preenchimento de -1 para a identificação de conjuntos vazios.
